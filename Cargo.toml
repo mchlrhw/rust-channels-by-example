@@ -1,0 +1,7 @@
+[package]
+name = "rust-channels-by-example"
+version = "0.1.0"
+authors = ["mchlrhw <4028654+mchlrhw@users.noreply.github.com>"]
+
+[dependencies]
+crossbeam-channel =  "0.1.2"
